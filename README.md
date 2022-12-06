@@ -3,5 +3,5 @@
 
 #### Чем я занимаюсь:
 #### >Python
-#### > Django
+#### >Django
 #### >Flask
