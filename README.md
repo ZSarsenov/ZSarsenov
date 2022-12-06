@@ -3,8 +3,8 @@
 
 # Чем я занимаюсь:
 ### Python
-## Django
-##Flask
+### Django
+### Flask
 
 
 ![django-logo](https://user-images.githubusercontent.com/29209596/205865355-a275860f-7837-48f4-a2a2-717944f2d097.png)
