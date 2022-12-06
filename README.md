@@ -2,6 +2,6 @@
 ## Я из KZ
 
 #### Чем я занимаюсь:
-#### Python
-#### Django
-#### Flask
+#### >Python
+#### > Django
+#### >Flask
