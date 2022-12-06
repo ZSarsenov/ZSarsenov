@@ -9,4 +9,3 @@
 
 
 
-![Flask-loog](https://user-images.githubusercontent.com/29209596/205904795-d4ef394c-7ab2-4201-bc75-5be11e822817.png)
