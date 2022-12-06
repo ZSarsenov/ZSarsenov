@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-b
+
+![django-logo](https://user-images.githubusercontent.com/29209596/205864657-f8969a5e-d4f2-4b68-8a0b-2b9aff9e2d80.png)
